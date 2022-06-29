@@ -10,12 +10,24 @@ body{
   }
 
 h1 {
+    font-size: 26px;
     color: darkred;
+
+    padding-top:.75rem;
+    padding-right:1rem;
+    padding-left:1rem;
+}
+
+h2 {
+    font-size: 20px;
+    color: #5c5962;
+
+    padding-right:1rem;
+    padding-left:1rem;
 }
 
 p {
     color:black;
-    background: beige
 }
 
 li {
@@ -24,4 +36,21 @@ li {
 
 a {
     color: green;
+}
+
+.menu-category {
+    color: darkslategrey;
+    font-size: 14px;
+}
+
+.menu-item {
+    font-size: 12px;
+}
+
+.aboutblock {
+}
+
+.aboutcontent {
+    padding-right:2rem;
+    padding-left:2rem;
 }
