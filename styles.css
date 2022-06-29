@@ -1,5 +1,27 @@
-body {
-    margin: 0;
-    background: grey;
-    text-align: center;
+body{
+    margin:0;
+    position:relative;
+    padding-bottom:4rem;
+    font-family:-apple-system,"helvetica neue",helvetica,roboto,noto,"segoe ui",arial,sans-serif;
+    font-size:inherit;
+    line-height:1.5;
+    color:#5c5962;
+    background-color:#fff;
+  }
+
+h1 {
+    color: darkred;
+}
+
+p {
+    color:black;
+    background: beige
+}
+
+li {
+    color: green;
+}
+
+a {
+    color: green;
 }
